@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IDo9lP9Lb0p6S9QRGwotjZsEkvQJtGTSfsy0iQsfI6hHEpUjF7Gv6cWA9iq9S01XReF0QrHwMFhdQ7RbZu2C5g==",
+  "success": true,
+  "projectFilePath": "D:\\project_poc\\corewebapi\\EShopMicroService\\src\\services\\catelog\\catelog.api\\catelog.api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sunil\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\sunil\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\sunil\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\sunil\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}

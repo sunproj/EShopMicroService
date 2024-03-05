@@ -1,0 +1,12 @@
+D:\project_poc\corewebapi\EShopMicroService\src\BuildingBlocks\BuildingBlocks\bin\Debug\net6.0\BuildingBlocks.deps.json
+D:\project_poc\corewebapi\EShopMicroService\src\BuildingBlocks\BuildingBlocks\bin\Debug\net6.0\BuildingBlocks.dll
+D:\project_poc\corewebapi\EShopMicroService\src\BuildingBlocks\BuildingBlocks\bin\Debug\net6.0\BuildingBlocks.pdb
+D:\project_poc\corewebapi\EShopMicroService\src\BuildingBlocks\BuildingBlocks\obj\Debug\net6.0\BuildingBlocks.csproj.AssemblyReference.cache
+D:\project_poc\corewebapi\EShopMicroService\src\BuildingBlocks\BuildingBlocks\obj\Debug\net6.0\BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+D:\project_poc\corewebapi\EShopMicroService\src\BuildingBlocks\BuildingBlocks\obj\Debug\net6.0\BuildingBlocks.AssemblyInfoInputs.cache
+D:\project_poc\corewebapi\EShopMicroService\src\BuildingBlocks\BuildingBlocks\obj\Debug\net6.0\BuildingBlocks.AssemblyInfo.cs
+D:\project_poc\corewebapi\EShopMicroService\src\BuildingBlocks\BuildingBlocks\obj\Debug\net6.0\BuildingBlocks.csproj.CoreCompileInputs.cache
+D:\project_poc\corewebapi\EShopMicroService\src\BuildingBlocks\BuildingBlocks\obj\Debug\net6.0\BuildingBlocks.dll
+D:\project_poc\corewebapi\EShopMicroService\src\BuildingBlocks\BuildingBlocks\obj\Debug\net6.0\refint\BuildingBlocks.dll
+D:\project_poc\corewebapi\EShopMicroService\src\BuildingBlocks\BuildingBlocks\obj\Debug\net6.0\BuildingBlocks.pdb
+D:\project_poc\corewebapi\EShopMicroService\src\BuildingBlocks\BuildingBlocks\obj\Debug\net6.0\ref\BuildingBlocks.dll

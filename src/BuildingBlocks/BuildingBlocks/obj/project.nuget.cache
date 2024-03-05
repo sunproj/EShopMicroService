@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LEZTQO7hBPIZKHR2af8k0KokGTBMrYK9Xemyf2IE1ZUh/90KIJ6/vUj9cjyk/CMvh9dkhhNyDqaj+wcpRVCk9A==",
+  "success": true,
+  "projectFilePath": "D:\\project_poc\\corewebapi\\EShopMicroService\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sunil\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\sunil\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\sunil\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
